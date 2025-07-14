@@ -1,3 +1,7 @@
+### Documentos:
+https://github.com/adriana-muller-br/integracao-bpm-com-ia/blob/main/docs/1-llm.md
+
+
 ### Instale:
 
 ```bash
@@ -17,3 +21,6 @@ uvicorn main:app --reload
 ```bash
 streamlit run simulador_bpm.py
 ```
+
+### Acesse
+http://localhost:8501/
